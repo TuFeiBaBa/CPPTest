@@ -1,7 +1,7 @@
 ﻿// CPPTest.cpp: 定义应用程序的入口点。
 //
 
-#include "CPPTest.h"
+#include "cpp_test.h"
 
 using namespace std;
 
