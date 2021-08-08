@@ -5,11 +5,11 @@ using namespace std;
 
 int main()
 {
-    //变量
+    //鍙橀噺
     cout << "a in space x : " << x::a<< endl;
     cout << "a in space y : " << y::a << endl;
 
-    //方法
+    //鏂规硶
     x::greet();
     y::greet();
     return 0;
